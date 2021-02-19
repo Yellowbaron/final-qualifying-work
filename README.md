@@ -6,6 +6,7 @@ Automatic annotation of temporal information in Russian-language texts
 ## Technology
 Парсер на основе правил. Написан на части проекта Natasha Yargy-парсере
 <p>В каталоге /build/ архив с исполняемым файлом. В папку "input" загружаются целевые текстовые файлы, после запуска exe'шника они аннотируются и появляются в папке "outbut". Таковы были требования к ПО</p>
+<p>Презентация к ВКР Graduation_work_P-41_Galimyanov_AF (1).pptx</p>
 
 ### Разметка основана на стандарте аннотирования TimeML
 
