@@ -10,10 +10,10 @@ Automatic annotation of temporal information in Russian-language texts
 
 ## Parts
 Project777.py - tagging temporal information.
-date.py - classes and rules for different types of temporal information.
-extractor.py - modified extractor from yargy-parser
-numeral.py - classes and rules for numerals and roman numerals
-setup.py - to create an executable .exe file
+<p>date.py - classes and rules for different types of temporal information.</p>
+<p>extractor.py - modified extractor from yargy-parser.</p>
+<p>numeral.py - classes and rules for numerals and roman numerals.</p>
+<p>setup.py - to create an executable .exe file.</p>
 
 ### Разметка основана на стандарте аннотирования TimeML
 
