@@ -8,6 +8,13 @@ Automatic annotation of temporal information in Russian-language texts
 <p>В каталоге /build/ архив с исполняемым файлом. В папку "input" загружаются целевые текстовые файлы, после запуска exe'шника они аннотируются и появляются в папке "outbut". Таковы были требования к ПО</p>
 <a href="https://github.com/Yellowbaron/final-qualifying-work/blob/main/Graduation_work_P-41_Galimyanov_AF%20(1).pptx">Презентация к ВКР Graduation_work_P-41_Galimyanov_AF (1).pptx</a>
 
+## Parts
+Project777.py - tagging temporal information.
+date.py - classes and rules for different types of temporal information.
+extractor.py - modified extractor from yargy-parser
+numeral.py - classes and rules for numerals and roman numerals
+setup.py - to create an executable .exe file
+
 ### Разметка основана на стандарте аннотирования TimeML
 
 | Тип календарной единицы | Обозначение | Пример  | Запись значения примера| Комментарии |
